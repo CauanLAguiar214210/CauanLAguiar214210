@@ -2,7 +2,7 @@
 
 - 👀 Estou interessado em ganhar experiencia na minha área
 - 🌱 Estou cursando Analise e Desenvolvimente de Sistema
-- 💞️ Estou procurando por vagas de DEV Junior
+- 💞️ Estou procurando por vagas de DEV Full Stack
 <br>
 <div>
   <a href="https://beacons.ai/CauanLAguiar214210">
