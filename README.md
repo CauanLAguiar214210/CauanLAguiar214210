@@ -13,6 +13,8 @@
   <h3>Habilitado em:</h3>
   <img align="center" alt="Cauan-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />-
   <img align="center" alt="Cauan-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Cauan-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
   </div>
   <br>
  <div>
