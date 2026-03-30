@@ -1,27 +1,96 @@
-## Olá! eu sou Cauan Aguiar
-
-<div>
-- 👀 Estou interessado em ganhar experiencia na minha área <br>
-- 🌱 Estou cursando Analise e Desenvolvimente de Sistema <br>
-- 💞️ Estou procurando por vagas de DEV Full Stack 
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+  
+  ### 🚀 Engenheiro de Dados & Desenvolvedor SQL Server
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+  
+  ---
+  
+  *“Transformando dados complexos em soluções robustas e performáticas.”*
+  
 </div>
 
-## Habilitado em:
- <div style="display: inline block"><br>
-  <p>
-    <img align="center" alt="Cauan-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>  &nbsp;
-    <img align="center" alt="Cauan-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />  &nbsp; 
-    <img align="center" alt="Cauan-ServerSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Cauan-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  &nbsp;   
-    <img align="center" alt="Cauan-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  &nbsp;
-    <img align="center" alt="Cauan-JSON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />   
-  </p>
-  </div>
-   
-## Fale comigo em:
-<div>
- <a href="https://www.linkedin.com/in/cauan-l-aguiar-a84279223/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
+---
 
-                                                                                                                                                                                                                                                      
+## 👨‍💻 Sobre mim
+
+Sou um profissional especializado em **banco de dados SQL Server** e **desenvolvimento back-end**, com forte atuação na criação de **procedures complexas** e **modelagem relacional** focada em integridade e alta performance.
+
+Minha abordagem combina técnica apurada com uma postura **proativa** e **colaborativa**, sempre buscando otimizar processos e implementar melhorias contínuas nos projetos em que atuo.
+
+Tenho facilidade em transitar entre diferentes ferramentas e linguagens, garantindo entregas de qualidade desde a concepção até a documentação final.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 🗄️ Banco de Dados & Modelagem
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Ferramentas & DevOps
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🌐 APIs & Testes
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-0078D4?style=for-the-badge&logo=soap&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white)
+
+---
+
+## 📌 Principais Competências
+
+| Área | Destaques |
+|------|-----------|
+| **SQL Server** | Procedures complexas, triggers, funções, otimização de queries, tuning de performance |
+| **Modelagem de Dados** | Modelagem relacional, normalização, integridade referencial, modelagem dimensional (star schema) |
+| **Desenvolvimento** | Visual Studio, Git Flow, versionamento semântico, documentação técnica |
+| **APIs** | Criação e consumo de APIs REST e SOAP, testes com Postman e SoapUI, documentação via Swagger |
+| **Soft Skills** | Proatividade, pensamento crítico, comunicação clara, busca por inovação e melhoria contínua |
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📊 [Sistema de Procedures Dinâmicas para ETL](https://github.com/seuusuario/procedures-dinamicas)
+> Conjunto de procedures em SQL Server que automatizam processos de ETL com validação de dados, logging e tratamento de erros. Redução de 40% no tempo de processamento de grandes volumes.
+
+### 🛡️ [API com Documentação Swagger + Autenticação](https://github.com/seuusuario/api-swagger)
+> API REST desenvolvida em .NET com autenticação JWT, documentada automaticamente via Swagger. Testes de integração realizados com Postman e SoapUI.
+
+### 🧩 [Modelagem Relacional para Sistema de Vendas](https://github.com/seuusuario/modelagem-vendas)
+> Projeto completo de modelagem de banco de dados relacional para um sistema de vendas, com foco em integridade, performance e escalabilidade. Inclui diagrama ER, scripts de criação e queries otimizadas.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Estou sempre aberto a novos desafios, colaborações em projetos open source e oportunidades profissionais. Se quiser trocar uma ideia sobre banco de dados, APIs ou boas práticas de desenvolvimento, é só chamar!
+
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se_comigo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![Email](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Acompanhe_meus_repositórios-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seuusuario)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=100&section=footer"/>
+</div>
