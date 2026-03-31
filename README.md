@@ -1,16 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=200&section=header&text=Olá,%20eu%20sou%20Cauan&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
   
   ### 🚀 Engenheiro de Dados & Desenvolvedor SQL Server
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-  
-  ---
-  
-  *“Transformando dados complexos em soluções robustas e performáticas.”*
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-aguiar-a96280313/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanLAguiar214210)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.cauanaguiar@gmail.com)
   
 </div>
 
@@ -31,9 +27,8 @@ Tenho facilidade em transitar entre diferentes ferramentas e linguagens, garanti
 ### 🗄️ Banco de Dados & Modelagem
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Ferramentas & DevOps
+### ⚙️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,9 +80,9 @@ Tenho facilidade em transitar entre diferentes ferramentas e linguagens, garanti
 
 Estou sempre aberto a novos desafios, colaborações em projetos open source e oportunidades profissionais. Se quiser trocar uma ideia sobre banco de dados, APIs ou boas práticas de desenvolvimento, é só chamar!
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se_comigo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Email](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Acompanhe_meus_repositórios-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se_comigo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-aguiar-a96280313/)
+[![Email](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.cauanaguiar@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Acompanhe_meus_repositórios-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/CauanLAguiar214210)
 
 ---
 
