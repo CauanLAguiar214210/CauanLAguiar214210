@@ -67,15 +67,6 @@ Tenho facilidade em transitar entre diferentes ferramentas e linguagens, garanti
 
 ---
 
-[## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----](url)
-
 ## 📫 Vamos conversar?
 
 Estou sempre aberto a novos desafios, colaborações em projetos open source e oportunidades profissionais. Se quiser trocar uma ideia sobre banco de dados, APIs ou boas práticas de desenvolvimento, é só chamar!
