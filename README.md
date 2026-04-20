@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=200&section=header&text=Olá,%20eu%20sou%20Cauan&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
   
-  ### 🚀 Engenheiro de Dados & Desenvolvedor SQL Server
+  ### 🚀 Analista & Desenvolvedor Dotnet
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-aguiar-a96280313/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanLAguiar214210)
