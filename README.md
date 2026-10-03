@@ -96,25 +96,6 @@ O objetivo é manter informações sobre **arquitetura, decisões técnicas, reg
 
 ---
 
-## 🚀 Projeto em Destaque
-
-### 🦍 GorillazDiscordBot
-
-[![GitHub](https://img.shields.io/badge/GitHub-GorillazDiscordBot-181717?style=for-the-badge\&logo=github)](https://github.com/CauanLAguiar214210/GorillazDiscordBot)
-
-Bot para Discord desenvolvido em **C# / .NET**, utilizando:
-
-* Discord.Net
-* MongoDB
-* Docker
-* AWS
-* Lavalink
-* APIs externas
-
-Projeto utilizado também como laboratório para **arquitetura distribuída, cloud, containers e desenvolvimento assistido por IA**.
-
----
-
 ## 📈 Experiência
 
 ### Desenvolvedor .NET Pleno — Eco Sistemas
