@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6B8E23&height=180&section=header&text=Olá,%20eu%20sou%20Cauan&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
 
-### 🚀 Desenvolvedor .NET Pleno | Backend
+### 🚀 Desenvolvedor .NET | Backend
 
 **C# • .NET • ASP.NET Core • SQL Server • AWS • Docker • IA**
 
