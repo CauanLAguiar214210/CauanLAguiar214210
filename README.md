@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor .NET Pleno**, com 3 anos de experiência em desenvolvimento backend utilizando **C# e .NET**.
+Sou **Desenvolvedor .NET**, com 3 anos de experiência em desenvolvimento backend utilizando **C# e .NET**.
 
 Atuo no desenvolvimento e manutenção de aplicações corporativas, APIs e integrações, com foco em **performance, arquitetura, qualidade de código e banco de dados**.
 
@@ -98,7 +98,7 @@ O objetivo é manter informações sobre **arquitetura, decisões técnicas, reg
 
 ## 📈 Experiência
 
-### Desenvolvedor .NET Pleno — Eco Sistemas
+### Desenvolvedor .NET — Eco Sistemas
 
 **Mar/2022 – Atualmente**
 
